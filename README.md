@@ -2,7 +2,7 @@
 
 
 Welcome to my page!                                                                                               
-I'm ZEVENELX, you can call me as ZEVEN. I almost waste all time by learning on computer, mainly developing in Javascript & GOLANG. Trying to improve JS and GOLANG skills. Everythings are possible for me! 
+I'm ZEVENOR, you can call me as ZEVEN. I almost waste all time by learning on computer, mainly developing in Javascript & GOLANG. Trying to improve JS and GOLANG skills. Everythings are possible for me! 
 
 ### **My Code Experience:**
 
