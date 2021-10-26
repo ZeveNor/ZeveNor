@@ -2,7 +2,7 @@
 
 
 **Welcome to my page!**                                                                                             
-I'm ZEVENOR, you can call me as ZEVEN. I almost waste all time by learning on computer, mainly developing in Javascript & GOLANG. Trying to improve JS and GOLANG skills. Everythings are possible for me! 
+I'm ZEVENOR, you can call me as ZEVEN. I almost using all time by learning on computer, mainly developing in Javascript & GOLANG. Trying to improve JS and GOLANG skills. Everythings are possible for me! 
 
 * 🌍 Developer in Tweed https://tweed-24ad1.web.app/
 
