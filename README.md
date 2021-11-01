@@ -1,5 +1,5 @@
 # <img src="https://camo.githubusercontent.com/d3359cb00ab0b5ed8f2e1fe3fceb4fbaf3b614340f8c0db99c17b9f50b351770/68747470733a2f2f656d6f6a69732e736c61636b6d6f6a69732e636f6d2f656d6f6a69732f696d616765732f313533313834393433302f343234362f626c6f622d73756e676c61737365732e6769663f31353331383439343330" width="30px"> **HELLO! It's me ZEVEN**.
-[![wakatime](https://wakatime.com/badge/user/92903892-7ce8-4931-9d77-ab6bca1cf51f.svg)](https://wakatime.com/@92903892-7ce8-4931-9d77-ab6bca1cf51f)
+[![Discord](https://img.shields.io/discord/854440357730320424?color=%2300BFFF&label=DISCORD&logo=Discord&logoColor=%23FFFFFF&style=flat-square)](https://discord.gg/t4YgdbySHD) [![wakatime](https://wakatime.com/badge/user/92903892-7ce8-4931-9d77-ab6bca1cf51f.svg)](https://wakatime.com/@92903892-7ce8-4931-9d77-ab6bca1cf51f) 
 
 <p align="center"><a href="https://anuraghazra.github.io"><img width="100%" src="./assets/header.gif" /></a></p>
 
