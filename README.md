@@ -16,4 +16,8 @@ I'm ZEVENOR, you can call me as ZEVEN. I almost using all time by learning on co
 
 ### **Where to find me**:
 
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white) ![Discord](https://img.shields.io/badge/-Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)
+[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)][1] [![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)][2] [![Discord](https://img.shields.io/badge/-Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)][3]
+
+[1]: https://github.com/ZeveNor
+[2]: https://steamcommunity.com/id/DE_ZEVEN/
+[3]: https://discord.gg/t4YgdbySHD
