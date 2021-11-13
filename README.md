@@ -23,6 +23,8 @@ GOLANG. Trying to improve JS and GOLANG skills. Everythings are possible for me!
 
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)][1] [![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)][2] [![Discord](https://img.shields.io/badge/-Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)][3]
 
+![Avatar](https://discord.c99.nl/widget/theme-2/854433449539534858.png)
+
 [1]: https://github.com/ZeveNor
 [2]: https://steamcommunity.com/id/DE_ZEVEN/
 [3]: https://discord.gg/t4YgdbySHD
