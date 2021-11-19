@@ -1,6 +1,6 @@
 # <img src="https://camo.githubusercontent.com/d3359cb00ab0b5ed8f2e1fe3fceb4fbaf3b614340f8c0db99c17b9f50b351770/68747470733a2f2f656d6f6a69732e736c61636b6d6f6a69732e636f6d2f656d6f6a69732f696d616765732f313533313834393433302f343234362f626c6f622d73756e676c61737365732e6769663f31353331383439343330" width="30px"> **HELLO! It's me ZEVEN**.
 [![Server](https://img.shields.io/discord/854440357730320424?label=HEADICT%20%20%20%7C%20%20Community%20Server&logo=discord&style=flat-squarer)](https://discord.gg/t4YgdbySHD) [![wakatime](https://wakatime.com/badge/user/92903892-7ce8-4931-9d77-ab6bca1cf51f.svg)](https://wakatime.com/@92903892-7ce8-4931-9d77-ab6bca1cf51f)
-[![Avatar](https://komarev.com/ghpvc/?username=Zevenoo)](https://discord.gg/t4YgdbySHD)
+[![Avatar](https://komarev.com/ghpvc/?username=Zevenor)](https://discord.gg/t4YgdbySHD)
 
 <p align="center"><a href="https://green-segment-319307.web.app"><img width="100%" src="./assets/header.gif" /></a></p>
 
@@ -27,7 +27,7 @@ GOLANG. Trying to improve JS and GOLANG skills. Everythings are possible for me!
 ![Avatar](https://discord.c99.nl/widget/theme-2/854433449539534858.png)
 
 ### **View Counter Api:** 
-![:name](https://ZEVEN-COUNTER.zevenelx.repl.co/get/@Zeveno)
+![:name](https://ZEVEN-COUNTER.zevenelx.repl.co/get/@Zevenor)
 
 [1]: https://github.com/ZeveNor
 [2]: https://steamcommunity.com/id/DE_ZEVEN/
