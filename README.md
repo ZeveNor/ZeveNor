@@ -28,4 +28,4 @@ GOLANG. Trying to improve JS and GOLANG skills. Everythings are possible for me!
 
 [1]: https://github.com/ZeveNor
 [2]: https://steamcommunity.com/id/DE_ZEVEN/
-[3]: https://discord.gg/t4YgdbySHD
+[3]: https://discord.gg/Hw9AqpFCRN
