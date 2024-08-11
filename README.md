@@ -9,7 +9,6 @@
 GOLANG. Trying to improve JS and GOLANG skills. Everythings are possible for me! 
 
 
-* 🌍 Developer in Tweed https://tweed-24ad1.web.app/
 
 ### **My Code Experience:** 
 
