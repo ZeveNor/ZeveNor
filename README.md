@@ -22,8 +22,8 @@ GOLANG. Trying to improve JS and GOLANG skills. Everythings are possible for me!
 
 ![Avatar](https://discord.c99.nl/widget/theme-2/854433449539534858.png)
 
-### **View Counter Api:** 
-![:name](https://ZEVEN-COUNTER.zevenelx.repl.co/get/@Zevenor)
+### **View Contributes:** 
+![](./profile-3d-contrib/profile-green-animate.svg)
 
 [1]: https://github.com/ZeveNor
 [2]: https://steamcommunity.com/id/DE_ZEVEN/
