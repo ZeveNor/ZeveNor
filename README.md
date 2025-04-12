@@ -1,14 +1,14 @@
 # <img src="https://camo.githubusercontent.com/d3359cb00ab0b5ed8f2e1fe3fceb4fbaf3b614340f8c0db99c17b9f50b351770/68747470733a2f2f656d6f6a69732e736c61636b6d6f6a69732e636f6d2f656d6f6a69732f696d616765732f313533313834393433302f343234362f626c6f622d73756e676c61737365732e6769663f31353331383439343330" width="30px"> **HELLO! It's me ZEVEN**.
 [![Server](https://img.shields.io/discord/854440357730320424?label=HEADICT%20%20%20%7C%20%20Community%20Server&logo=discord&style=flat-squarer)](https://discord.gg/t4YgdbySHD) [![wakatime](https://wakatime.com/badge/user/92903892-7ce8-4931-9d77-ab6bca1cf51f.svg)](https://wakatime.com/@92903892-7ce8-4931-9d77-ab6bca1cf51f)
 
-<p align="center"><a href="https://zevenor.github.io/pages/"><img width="100%" src="./assets/header.gif" /></a></p>
+<p align="center"><a href="https://flune.xyz"><img width="100%" src="./assets/header.gif" /></a></p>
 
 **Welcome to my page!** 
 
-> I'm ZEVENOR, you can call me as ZEVEN. I almost using all time by learning on computer, mainly developing in Javascript & 
-GOLANG. Trying to improve JS and GOLANG skills. Everythings are possible for me! 
+> I'm ZeveNor, you can call me as ZEV. I almost using all time by learning on computer languages, mainly developing in Javascript & Java. Everythings are possible for me! 
 
-
+### **View Contributes:** 
+![](./profile-3d-contrib/profile-green-animate.svg)
 
 ### **My Code Experience:** 
 
@@ -21,9 +21,6 @@ GOLANG. Trying to improve JS and GOLANG skills. Everythings are possible for me!
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)][1] [![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)][2] [![Discord](https://img.shields.io/badge/-Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)][3]
 
 ![Avatar](https://discord.c99.nl/widget/theme-2/854433449539534858.png)
-
-### **View Contributes:** 
-![](./profile-3d-contrib/profile-green-animate.svg)
 
 [1]: https://github.com/ZeveNor
 [2]: https://steamcommunity.com/id/DE_ZEVEN/
