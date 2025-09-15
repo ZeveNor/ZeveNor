@@ -1,4 +1,4 @@
-# **HELLO! It's me ZEVEN**.
+# **HELLO! It's me ZEV**.
 [![Server](https://img.shields.io/discord/854440357730320424?label=HEADICT%20%20%20%7C%20%20Community%20Server&logo=discord&style=flat-squarer)](https://discord.gg/t4YgdbySHD) [![wakatime](https://wakatime.com/badge/user/92903892-7ce8-4931-9d77-ab6bca1cf51f.svg)](https://wakatime.com/@92903892-7ce8-4931-9d77-ab6bca1cf51f)
 
 <p align="center"><a href="https://flune.xyz"><img width="100%" src="./assets/header.gif" /></a></p>
